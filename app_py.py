@@ -55,7 +55,7 @@ while True:
 # %%writefile medical_app.py
 # # paste the entire medical_app.py code here
 
-!cat medical_app.py
+
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile medical_app.py
