@@ -49,7 +49,7 @@ while True:
     response = qa_chain.invoke(query)
     print(f"\nAssistant: {response}\n")
 
-!pip install -q streamlit langchain langchain-community langchain-openai faiss-cpu pypdf sentence-transformers pyngrok
+
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile medical_app.py
